@@ -1,0 +1,14 @@
+{
+  "name": "express-rest-api-template",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "dotenv": "^6.2.0",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  }
+}
